@@ -1,0 +1,4 @@
+!! Warning Using this tool for unauthorized attacks is illegal 
+and can have serious legal consequences. This software is intended 
+solely for legal and ethical purposes, such as testing the security of your 
+own systems or with the explicit permission of the system owner. !!
