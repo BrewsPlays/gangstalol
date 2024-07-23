@@ -1,3 +1,10 @@
+  ________    _____    _______    ________  _________________________  .____    ________  .____     
+ /  _____/   /  _  \   \      \  /  _____/ /   _____/\__    ___/  _  \ |    |   \_____  \ |    |    
+/   \  ___  /  /_\  \  /   |   \/   \  ___ \_____  \   |    | /  /_\  \|    |    /   |   \|    |    
+\    \_\  \/    |    \/    |    \    \_\  \/        \  |    |/    |    \    |___/    |    \    |___ 
+ \______  /\____|__  /\____|__  /\______  /_______  /  |____|\____|__  /_______ \_______  /_______ \
+        \/         \/         \/        \/        \/                 \/        \/       \/        \/
+        
 gangstalol DDoS Tool
 Use this tool exclusively for ethical testing and educational purposes. Do not conduct attacks without the permission of the target system's owner. Misuse of this tool may have legal consequences.
 
