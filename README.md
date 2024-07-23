@@ -5,3 +5,5 @@ Use this tool exclusively for ethical testing and educational purposes. Do not c
 
 HOW2RUN?
 Open the "gangstalol.exe" file and you're done. Then insert the IPV4 ip address and the attacks will begin.
+
+![image (3)](https://github.com/user-attachments/assets/0cf666ec-26d7-4f47-b057-9836e41b7651)
